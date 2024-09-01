@@ -1,0 +1,12 @@
+startup.sh
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.out
+*.err
+*.pid
+**__pycache__/
